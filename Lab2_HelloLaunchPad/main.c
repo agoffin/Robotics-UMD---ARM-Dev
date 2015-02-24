@@ -45,6 +45,8 @@ void Delay(void);
 void EnableInterrupts(void);
 
 
+void EnableInterrupts(){}
+
 // 3. Subroutines Section
 // MAIN: Mandatory for a C Program to be executable
 int main(void){    
